@@ -512,6 +512,4 @@ This plugin is provided "as is" without warranty of any kind, express or implied
 
 ---
 
-**Made with ❤️ for the Egyptian WordPress community**
-
-*Last Updated: January 2025*
+*Last Updated: November 2025*
